@@ -160,8 +160,9 @@ pipeline {
      /** TODO 
     1. add clean up stage
     2. add clone repository stage
-    3. add maven build stage
-    4. add maven test stage
+    3. add maven test stage
+    4. add maven build stage
+   
     */
 
         stage('Docker Build') {
