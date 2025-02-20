@@ -30,7 +30,6 @@ This lab guides you through advanced **failure monitoring**, **performance optim
   - **Monitoring**
   - **Disk Usage Plugin**
   - **Prometheus Metrics Plugin** (for advanced monitoring)
-  - **Email Extension template Plugin** (if not installed yet)
 - Restart Jenkins after installation.
 
 ✅ **Outcome:** Jenkins is now equipped with monitoring tools for better performance tracking.
